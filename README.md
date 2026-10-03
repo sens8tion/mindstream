@@ -33,7 +33,8 @@ Not for children. Not for an audience that has not agreed to see unfiltered gene
 ## What it can do
 
 [See it](https://photos.app.goo.gl/e3B4M1Tg3YSssVDX7) (the visuals) and [hear it](https://soundcloud.com/sens8tion/doesntexist) (the sound).
-The Warning above applies to both.
+An [earlier version](https://photos.app.goo.gl/VwRKirdgRJ4H62xSA) running with its panels open. The Warning above applies
+to all of them.
 
 ## Watched, or it is not there
 
