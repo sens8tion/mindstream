@@ -1,0 +1,22 @@
+# model weights never belong in this repo; they are referenced by path
+*.safetensors
+*.sft
+*.gguf
+*.ckpt
+*.pt
+*.pth
+*.bin
+*.onnx
+models/
+checkpoints/
+
+__pycache__/
+*.pyc
+.venv/
+.venv-dml/
+venv/
+.python-dml/
+experiments/
+
+# which models this machine uses: never tracked
+models.local.json

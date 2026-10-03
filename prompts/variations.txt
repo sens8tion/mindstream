@@ -1,0 +1,19 @@
+# One per line. With --cadence, a line from here is added to the current image prompt each time the
+# scene is rendered again, so the same moment is seen another way. The picture model changes little between
+# seeds, so the words have to do the work. Edit freely.
+The same scene seen from much further away, the figures small in a wide landscape.
+The same scene as an extreme close-up of a single detail, everything else out of focus.
+The same scene seen from directly above, looking straight down.
+The same scene seen from ground level, looking up.
+The same scene from behind the main subject, over the shoulder.
+The same scene a few seconds later, everything having moved on.
+The same scene a moment earlier, just before it happens.
+The same scene at night, lit by one small source.
+The same scene in hard midday light with deep black shadows.
+The same scene through rain on glass.
+The same scene reflected in a puddle or a window.
+The same scene as a long exposure, moving things smeared into streaks.
+The same scene from inside a doorway or a vehicle, framed by its edges.
+The same scene with the main subject absent, only the traces left behind.
+The same scene with a wide-angle lens very close to the nearest object.
+The same scene through a long lens from far off, the planes pressed flat together.
